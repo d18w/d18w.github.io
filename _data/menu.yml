@@ -1,6 +1,9 @@
 - title: "About Me"
   href: "/aboutme/"
 
+- title: "Resume"
+  href: "/resume/"
+
 - title: "Research"
   href: "/research/"
 
@@ -10,8 +13,7 @@
 # - title: "Blog"
 #   href: "/blog/"
 
-- title: "Resume"
-  href: "/resume/"
+
 
 # - title: "Miscellany"
 #   href: "/miscellany/"

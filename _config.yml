@@ -4,11 +4,11 @@ title: Dennis Wong
 academic_email: cwong@mpu.edu.mo
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  This is homepage of Assoc. Prof. Dennis Wong, a faculty member at Macau Polytechnic University.
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
-url: "https://ys1998.github.io" # the base hostname & protocol for your site
+url: "https://retrozhou.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 # github_username: github_username
@@ -23,4 +23,4 @@ kramdown:
   math_engine: mathjax
 
 # Other options
-permalink: blog/:year/:month/:title
+# permalink: blog/:year/:month/:title

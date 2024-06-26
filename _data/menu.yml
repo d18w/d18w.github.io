@@ -10,8 +10,8 @@
 # - title: "Blog"
 #   href: "/blog/"
 
-# - title: "CV"
-#   href: "/cv/"
+- title: "Resume"
+  href: "/resume/"
 
 # - title: "Miscellany"
 #   href: "/miscellany/"

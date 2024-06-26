@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: /aboutme/
 ---
 
 <!-- {% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %} -->

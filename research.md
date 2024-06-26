@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /publications/
+title: Publications
 ---
 
-Describe your research interests here.
+My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn sequences, graph theory, and design and analysis of algorithms. I am also interested in financial modeling, investing, and sports analytics lately.
 
 <h2>Publications</h2>
 <ul>

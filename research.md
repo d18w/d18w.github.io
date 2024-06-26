@@ -17,8 +17,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 <h2 class="wp-block-heading">Gray codes</h2>
 
 
-<div class="wp-block-image">
-<figure class="alignright size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="777" src="https://cwong.uoguelph.ca/files/2020/05/gray.png" alt="" class="wp-image-72" style="width:269px;height:203px" srcset="https://cwong.uoguelph.ca/files/2020/05/gray.png 1024w, https://cwong.uoguelph.ca/files/2020/05/gray-300x228.png 300w, https://cwong.uoguelph.ca/files/2020/05/gray-768x583.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></div>
+{% include image.html url="/images/gray.png" caption="Gray codes." width=300 align="right" %}
 
 
 <p>A&nbsp;<em>Gray code</em>&nbsp;for a set&nbsp;<strong>S</strong>&nbsp;is a listing&nbsp;<em>s<sub>1</sub>,<sub> </sub>s<sub>2</sub> ,…, s<sub>|<strong>S</strong>|</sub></em>&nbsp;of the elements of <strong>S</strong> such that consecutive strings in the listing differ by a small amount of changes.  As an example, the listing in the figure is a Gray code for the set of length 4 binary strings where consecutive strings differ by exactly one bit. A universal cycle can also be considered as a Gray code, where consecutive strings differ by a single shift and also at most one bit change. </p>
@@ -94,8 +93,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 <h2 class="wp-block-heading">Universal cycles and de Bruijn sequences</h2>
 
 
-<div class="wp-block-image">
-<figure class="alignright is-resized"><img decoding="async" width="1024" height="775" src="https://cwong.uoguelph.ca/files/2019/10/db6-1024x775.png" alt="" class="wp-image-12" style="width:256px;height:194px" srcset="https://cwong.uoguelph.ca/files/2019/10/db6-1024x775.png 1024w, https://cwong.uoguelph.ca/files/2019/10/db6-300x227.png 300w, https://cwong.uoguelph.ca/files/2019/10/db6-768x582.png 768w, https://cwong.uoguelph.ca/files/2019/10/db6.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></div>
+{% include image.html url="/images/db6.png" caption="de Brujin Sequence of number 6." width=300 align="right" %}
 
 
 <p>A&nbsp;<em>universal cycle</em>&nbsp;for a set&nbsp;<strong>S</strong>&nbsp;is a cyclic sequence&nbsp;<em>u<sub>1</sub>u<sub>2</sub>&nbsp;… u<sub>|<strong>S</strong>|</sub></em>&nbsp;where each substring of length&nbsp;<em>n</em>&nbsp;corresponds to a unique object in&nbsp;<strong>S</strong>. As an example, the cyclic sequence in the figure is a universal cycle (de Bruijn sequence) for the set of length 6 binary strings, where the 64 unique length 6 binary strings appear exactly once as a substring when the sequence is considered cyclicly. A universal cycle can also be considered as a Gray code with consecutive strings differ by a shift and at most one symbol change. </p>

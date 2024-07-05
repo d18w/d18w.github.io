@@ -7,7 +7,7 @@ title: contacts
 <div class="content">
 																																	<div class="entry-content">
 										
-<p>cwong[at]mpu.edu.mo</p>
+<p><a href="cwong@mpu.edu.mo">cwong[at]mpu.edu.mo</a></p>
 
 
 

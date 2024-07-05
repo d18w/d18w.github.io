@@ -1,8 +1,8 @@
 # Site settings
-title: Dennis Wong
-academic_email: cwong@mpu.edu.mo
+# title: Dennis Wong
+# academic_email: cwong@mpu.edu.mo
 
-description: > # this means to ignore newlines until "baseurl:"
+# description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 

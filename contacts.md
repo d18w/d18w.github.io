@@ -7,7 +7,7 @@ title: contacts
 <div class="content">
 																																	<div class="entry-content">
 										
-<p><a href="http://www.uoguelph.ca/~cwong/#">cwong[at]mpu.edu.mo</a></p>
+<p>cwong[at]mpu.edu.mo</p>
 
 
 

@@ -37,55 +37,55 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 
-<li><a href="https://drive.google.com/file/d/1unvejnt0i2asa17sqP_zNSZETsa9MKPV/view?usp=sharing">Greedy Gray codes for Dyck words and ballot sequences</a>. Vincent Vajnovszki and Dennis Wong. In Proceeding of the 29th International Computing and Combinatorics Conference, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1unvejnt0i2asa17sqP_zNSZETsa9MKPV/view?usp=sharing">Greedy Gray codes for Dyck words and ballot sequences</a>. Vincent Vajnovszki and Dennis Wong. In Proceeding of the 29th International Computing and Combinatorics Conference, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1Lh7joa2MM_L1vCBysb3xa7XQzUji2Op5/view?usp=sharing">Generating cyclic rotation Gray codes for stamp foldings and semi-meanders</a>. Bowie Liu and Dennis Wong. In Proceeding of the 34th International Workshop on Combinatorial Algorithms, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1Lh7joa2MM_L1vCBysb3xa7XQzUji2Op5/view?usp=sharing">Generating cyclic rotation Gray codes for stamp foldings and semi-meanders</a>. Bowie Liu and Dennis Wong. In Proceeding of the 34th International Workshop on Combinatorial Algorithms, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1b27vhvxx4eOpGm_pnDLcR-ShY0aCOJOV/view?usp=sharing">Flip-Swap languages in binary reflected Gray code order</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Theoretical Computer Science 933, 2022.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1b27vhvxx4eOpGm_pnDLcR-ShY0aCOJOV/view?usp=sharing">Flip-Swap languages in binary reflected Gray code order</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Theoretical Computer Science 933, 2022.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1sMZdQmAmtlJSeifh2ZFYVaVeBt_iFxnj/view?usp=sharing">Generating 2-Gray codes for ballot sequences in constant amortized time</a>. Dennis Wong, Fabio Calero, and Kushal Sedhai. Discrete Mathematics 346, 2022.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1sMZdQmAmtlJSeifh2ZFYVaVeBt_iFxnj/view?usp=sharing">Generating 2-Gray codes for ballot sequences in constant amortized time</a>. Dennis Wong, Fabio Calero, and Kushal Sedhai. Discrete Mathematics 346, 2022.</li>
 
 
 
-<li><a href="https://arxiv.org/pdf/2105.03556.pdf">Inside the binary reflected Gray code: Flip-Swap languages in 2-Gray code order</a>. Joe Sawada, Aaron Williams, and Dennis Wong. In Proceeding of the 13th International Conference on WORDS, 2021.</li>
+<li><a rel="prefetch" href="https://arxiv.org/pdf/2105.03556.pdf">Inside the binary reflected Gray code: Flip-Swap languages in 2-Gray code order</a>. Joe Sawada, Aaron Williams, and Dennis Wong. In Proceeding of the 13th International Conference on WORDS, 2021.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1b8NisyXoZdxAKKPgU16fOrMBOxFhy_wp/view?usp=sharing">Generating Gray codes for weak orders in constant amortized time</a>. Marsden Jacques, Dennis Wong, and Kyounga Woo. Discrete Mathematics 343, 2020.  In Proceeding of the 6th Annual International Conference on Algorithms and Discrete Applied Mathematics, 2020 (<strong>Erratum</strong>: Baril actually has not proved that 1-Gray code does not exist for weak orders under height notation. Contrary to what suggested in the previous version of this paper, the problem of finding a 1-Gray code for weak orders is still open).</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1b8NisyXoZdxAKKPgU16fOrMBOxFhy_wp/view?usp=sharing">Generating Gray codes for weak orders in constant amortized time</a>. Marsden Jacques, Dennis Wong, and Kyounga Woo. Discrete Mathematics 343, 2020.  In Proceeding of the 6th Annual International Conference on Algorithms and Discrete Applied Mathematics, 2020 (<strong>Erratum</strong>: Baril actually has not proved that 1-Gray code does not exist for weak orders under height notation. Contrary to what suggested in the previous version of this paper, the problem of finding a 1-Gray code for weak orders is still open).</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1NcLib3emcVxQh0OresWS4y3fn2YLW6Y3/view?usp=sharing">Necklaces and Lyndon words in colexicographic and binary reflected Gray code order</a>. Joe Sawada, Aaron Williams and Dennis Wong. Journal of Discrete Algorithms 46-47, 2017.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1NcLib3emcVxQh0OresWS4y3fn2YLW6Y3/view?usp=sharing">Necklaces and Lyndon words in colexicographic and binary reflected Gray code order</a>. Joe Sawada, Aaron Williams and Dennis Wong. Journal of Discrete Algorithms 46-47, 2017.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/13b1gbC1-p6UvW4E9Yx_J-NQ1YoYkP1Mk/view?usp=sharing">Snakes, coils, and single-track circuit codes with spread&nbsp;</a><em><a href="https://drive.google.com/file/d/13b1gbC1-p6UvW4E9Yx_J-NQ1YoYkP1Mk/view?usp=sharing">k</a></em>. Simon Hood, Daniel Recoskie, Joe Sawada and Dennis Wong. Journal of Combinatorial Optimization, 2013.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/13b1gbC1-p6UvW4E9Yx_J-NQ1YoYkP1Mk/view?usp=sharing">Snakes, coils, and single-track circuit codes with spread&nbsp;</a><em><a href="https://drive.google.com/file/d/13b1gbC1-p6UvW4E9Yx_J-NQ1YoYkP1Mk/view?usp=sharing">k</a></em>. Simon Hood, Daniel Recoskie, Joe Sawada and Dennis Wong. Journal of Combinatorial Optimization, 2013.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1mqDGCoSeZfiY3wNPHhwva4l4ZSo50WjV/view?usp=sharing">Exhaustive search for maximal length coil-in-the-box codes.</a>&nbsp;Joe Sawada and Dennis Wong. Technical Report, Department of Computing and Information Science, University of Guelph, 2008.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1mqDGCoSeZfiY3wNPHhwva4l4ZSo50WjV/view?usp=sharing">Exhaustive search for maximal length coil-in-the-box codes.</a>&nbsp;Joe Sawada and Dennis Wong. Technical Report, Department of Computing and Information Science, University of Guelph, 2008.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/17uOyGYQoO3DucMFTIryLNNsjDGDvlEPl/view?usp=sharing">A fast algorithm to generate Beckett-Gray codes.</a>&nbsp;Joe Sawada and Dennis Wong. Electronic Notes in Discrete Mathematics (EuroComb 2007) 29, 571-577, 2007.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/17uOyGYQoO3DucMFTIryLNNsjDGDvlEPl/view?usp=sharing">A fast algorithm to generate Beckett-Gray codes.</a>&nbsp;Joe Sawada and Dennis Wong. Electronic Notes in Discrete Mathematics (EuroComb 2007) 29, 571-577, 2007.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1nQJROBg2SORPhG-gTGn-WdYrR4KdmSK4/view?usp=sharing">Fast algorithm to generate Beckett-Gray codes and coil-in-the-box codes.</a> Dennis Wong. M.Sc. thesis, Department of Computing and Information Science, University of Guelph, 2007.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1nQJROBg2SORPhG-gTGn-WdYrR4KdmSK4/view?usp=sharing">Fast algorithm to generate Beckett-Gray codes and coil-in-the-box codes.</a> Dennis Wong. M.Sc. thesis, Department of Computing and Information Science, University of Guelph, 2007.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1YPss3Nq3YeqPAfhiaHEi_AZE2z-gdS6p/view?usp=sharing">Negative cycle detection problem.</a>&nbsp;Henry Tam and Dennis Wong (supervised by Evangeline Young). In proceeding of 13th Annual European Symposium on Algorithms (ESA 2005), pages 652−663, 2005.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1YPss3Nq3YeqPAfhiaHEi_AZE2z-gdS6p/view?usp=sharing">Negative cycle detection problem.</a>&nbsp;Henry Tam and Dennis Wong (supervised by Evangeline Young). In proceeding of 13th Annual European Symposium on Algorithms (ESA 2005), pages 652−663, 2005.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1t25RdeucPV4dAb3tacd5u-FXouZjQmBf/view?usp=sharing">Negative cycle cost detection problem.</a>&nbsp;Henry Tam and Dennis Wong. B.Sc. FYP report, Department of Computer Science, The Chinese University of Hong Kong, 2005.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1t25RdeucPV4dAb3tacd5u-FXouZjQmBf/view?usp=sharing">Negative cycle cost detection problem.</a>&nbsp;Henry Tam and Dennis Wong. B.Sc. FYP report, Department of Computer Science, The Chinese University of Hong Kong, 2005.</li>
 </ul>
 
 

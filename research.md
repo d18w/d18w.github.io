@@ -33,7 +33,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 
-<li><link rel="prefetch" href="https://drive.google.com/file/d/1qktSFadJkGI6DB5rS4TCqkEOGMD56M34/view?usp=sharing">Generating cyclic 2-Gray codes for Fibonacci <em>q</em>-decreasing words</a>. Dennis Wong, Bowie Liu, Chan-Tong Lam, and Marcus Im. In Proceeding of the 18th International Conference and Workshop on Algorithms and Computation, 2024. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1qktSFadJkGI6DB5rS4TCqkEOGMD56M34/view?usp=sharing">Generating cyclic 2-Gray codes for Fibonacci <em>q</em>-decreasing words</a>. Dennis Wong, Bowie Liu, Chan-Tong Lam, and Marcus Im. In Proceeding of the 18th International Conference and Workshop on Algorithms and Computation, 2024. </li>
 
 
 

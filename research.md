@@ -105,55 +105,55 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li><a href="https://drive.google.com/file/d/1eQRFYB1LyUR5QyrWgJ2TllOEo9FPnzg2/view?usp=sharing">Efficient universal cycle constructions for weak orders</a>. Joe Sawada and Dennis Wong. Discrete Mathematics 343, 2020. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1eQRFYB1LyUR5QyrWgJ2TllOEo9FPnzg2/view?usp=sharing">Efficient universal cycle constructions for weak orders</a>. Joe Sawada and Dennis Wong. Discrete Mathematics 343, 2020. </li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1Bo-ZNSP5_i9GPV48j1DrksoR9qgLFWsd/view?usp=sharing">Greedy universal cycle constructions for weak orders</a>. Marsden Jacques and Dennis Wong. In Proceeding of the 6th Annual International Conference on Algorithms and Discrete Applied Mathematics, 2020. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1Bo-ZNSP5_i9GPV48j1DrksoR9qgLFWsd/view?usp=sharing">Greedy universal cycle constructions for weak orders</a>. Marsden Jacques and Dennis Wong. In Proceeding of the 6th Annual International Conference on Algorithms and Discrete Applied Mathematics, 2020. </li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1zVGWX-U7s2E4ta6Dk9iWBo6-clQYsOEU/view?usp=sharing">A successor rule framework for constructing k-ary de Bruijn sequences and universal cycles</a>. Daniel Gabric, Joe Sawada, Aaron Williams, and Dennis Wong. IEEE Transactions on Information Theory, 2019.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1zVGWX-U7s2E4ta6Dk9iWBo6-clQYsOEU/view?usp=sharing">A successor rule framework for constructing k-ary de Bruijn sequences and universal cycles</a>. Daniel Gabric, Joe Sawada, Aaron Williams, and Dennis Wong. IEEE Transactions on Information Theory, 2019.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1_sgAIBQtDZha1fM-Cr9GDzN1SXJ2g31Z/view?usp=sharing">A framework for constructing de Bruijn sequences via simple successor rules</a>. Daniel Gabric, Joe Sawada, Aaron Williams, and Dennis Wong. Discrete Mathematics 341, 2018.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1_sgAIBQtDZha1fM-Cr9GDzN1SXJ2g31Z/view?usp=sharing">A framework for constructing de Bruijn sequences via simple successor rules</a>. Daniel Gabric, Joe Sawada, Aaron Williams, and Dennis Wong. Discrete Mathematics 341, 2018.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1aXifUULTgpFFG7cCG34Ujm4_MyVrpx8j/view?usp=sharing">A simple greedy de Bruijn sequence construction</a>. XiaoFang Wang, Dennis Wong, and WeiGuo Zhang. Sequences and Their Applications (SETA), 2018.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1aXifUULTgpFFG7cCG34Ujm4_MyVrpx8j/view?usp=sharing">A simple greedy de Bruijn sequence construction</a>. XiaoFang Wang, Dennis Wong, and WeiGuo Zhang. Sequences and Their Applications (SETA), 2018.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/14jcLX7gLixLCBiuhFkTy8w8GF3X0zV2g/view?usp=sharing">Constructing de Bruijn sequences with co-lexicographic order: The k-ary grandmama sequence</a>. Patrick Dragon, Oscar Hernandez, Joe Sawada, Aaron Williams, and Dennis Wong. European Journal of Combinatorics 72, 2018.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/14jcLX7gLixLCBiuhFkTy8w8GF3X0zV2g/view?usp=sharing">Constructing de Bruijn sequences with co-lexicographic order: The k-ary grandmama sequence</a>. Patrick Dragon, Oscar Hernandez, Joe Sawada, Aaron Williams, and Dennis Wong. European Journal of Combinatorics 72, 2018.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1DFoJIqymNbN60R92Nvrs-ZtsKOXiTba0/view?usp=sharing">A new universal cycle for permutations</a>. Dennis Wong. Graphs and Combinatorics 33, 2017.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1DFoJIqymNbN60R92Nvrs-ZtsKOXiTba0/view?usp=sharing">A new universal cycle for permutations</a>. Dennis Wong. Graphs and Combinatorics 33, 2017.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1UjJE3tqofIpZnMYTZLS2QfRV5SAi_j-w/view?usp=sharing">A simple shift rule for k-ary de Bruijn sequences</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Discrete Mathematics 340, 2017.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1UjJE3tqofIpZnMYTZLS2QfRV5SAi_j-w/view?usp=sharing">A simple shift rule for k-ary de Bruijn sequences</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Discrete Mathematics 340, 2017.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1zVYhuUBXkr5wuYSj3ETP0eXNcRxmmTG9/view?usp=sharing">Generalizing the classic greedy and necklace constructions of de Bruijn sequences</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Electronic Journal of Combinatorics 23, 2016.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1zVYhuUBXkr5wuYSj3ETP0eXNcRxmmTG9/view?usp=sharing">Generalizing the classic greedy and necklace constructions of de Bruijn sequences</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Electronic Journal of Combinatorics 23, 2016.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1hm76eLhmGOVOyPGphji9Mzk4Bdh79WSC/view?usp=sharing">A surprisingly simple de Bruijn sequence construction</a>. Joe Sawada, Aaron Williams and Dennis Wong. Discrete Mathematics 339, 2016.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1hm76eLhmGOVOyPGphji9Mzk4Bdh79WSC/view?usp=sharing">A surprisingly simple de Bruijn sequence construction</a>. Joe Sawada, Aaron Williams and Dennis Wong. Discrete Mathematics 339, 2016.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/10q7dubFXBu1C_OZI27RkOo3C0pBjVyLf/view?usp=sharing">The lexicographically smallest universal cycle for binary strings with minimum specified weight</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Journal of Discrete Algorithms on StringMasters, 28(0):31-40, 2014. StringMasters 2012 &amp; 2013 Special Issue (Volume 1), 2014.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/10q7dubFXBu1C_OZI27RkOo3C0pBjVyLf/view?usp=sharing">The lexicographically smallest universal cycle for binary strings with minimum specified weight</a>. Joe Sawada, Aaron Williams, and Dennis Wong. Journal of Discrete Algorithms on StringMasters, 28(0):31-40, 2014. StringMasters 2012 &amp; 2013 Special Issue (Volume 1), 2014.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1k1DUuLla71DC8iwlYE5XM8kOAoDwH_LW/view?usp=sharing">Universal cycles for weight-range binary strings</a>. Joe Sawada, Aaron Williams, and Dennis Wong. In proceeding of 24th International Workshop on Combinatorial Algorithms (IWOCA 2013), LNCS 8288, pages 388-401, 2013.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1k1DUuLla71DC8iwlYE5XM8kOAoDwH_LW/view?usp=sharing">Universal cycles for weight-range binary strings</a>. Joe Sawada, Aaron Williams, and Dennis Wong. In proceeding of 24th International Workshop on Combinatorial Algorithms (IWOCA 2013), LNCS 8288, pages 388-401, 2013.</li>
 
 
 
-<li><a href="https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/8812/Wong_ChiHim_201505_PhD.pdf?sequence=5&amp;isAllowed=y">Novel universal cycle constructions for a variety of combinatorial objects</a><a href="http://www.uoguelph.ca/~cwong/paper/Wong_ChiHim_201505_PhD.pdf">.</a>&nbsp;Dennis Wong. Ph.D. thesis, School of Computing Science, University of Guelph, 2015.</li>
+<li><a rel="prefetch" href="https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/8812/Wong_ChiHim_201505_PhD.pdf?sequence=5&amp;isAllowed=y">Novel universal cycle constructions for a variety of combinatorial objects</a><a href="http://www.uoguelph.ca/~cwong/paper/Wong_ChiHim_201505_PhD.pdf">.</a>&nbsp;Dennis Wong. Ph.D. thesis, School of Computing Science, University of Guelph, 2015.</li>
 </ul>
 
 
@@ -163,71 +163,71 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li><a href="https://drive.google.com/file/d/1-i5fXeyuhDpJZ4j13gMbdQfToA1k8NBc/view?usp=sharing">AuthZit: Multi-Modal Authentication with Visual-Spatial and Text Secrets</a>. Joon Han, Dennis Wong and Byungkon Kang. In Proceeding of the 21st International Conference on Applied Cryptography and Network Security, 2023 (To Appear).</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1-i5fXeyuhDpJZ4j13gMbdQfToA1k8NBc/view?usp=sharing">AuthZit: Multi-Modal Authentication with Visual-Spatial and Text Secrets</a>. Joon Han, Dennis Wong and Byungkon Kang. In Proceeding of the 21st International Conference on Applied Cryptography and Network Security, 2023 (To Appear).</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1gbEr62WV2dNAACb6GQvQzEZT3fi4ECXS/view?usp=sharing">MDPG: Markov Decision Process with Graph Representation in Reinforcement Learning</a>. Yide Yu, Dennis Wong, Yan Ma, and Yue Liu. In Proceeding of the 2023 International Conference on Mathematics, Computation and Modeling (CMCM 2023), 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1gbEr62WV2dNAACb6GQvQzEZT3fi4ECXS/view?usp=sharing">MDPG: Markov Decision Process with Graph Representation in Reinforcement Learning</a>. Yide Yu, Dennis Wong, Yan Ma, and Yue Liu. In Proceeding of the 2023 International Conference on Mathematics, Computation and Modeling (CMCM 2023), 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/14x13jKUs5VFTmvDs9HGQYcnXP_J8XqgG/view?usp=sharing">Measuring the State-Observation-Gap in POMDPs: An Exploration of Observation Confidence and Weighting Algorithms</a>. Yide Yu, Yan Ma, Yue Liu, Dennis Wong, Kin Lei, and José Vicente Egas-López. In Proceeding of the 19th International Conference on Artificial Intelligence Applications and Innovations, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/14x13jKUs5VFTmvDs9HGQYcnXP_J8XqgG/view?usp=sharing">Measuring the State-Observation-Gap in POMDPs: An Exploration of Observation Confidence and Weighting Algorithms</a>. Yide Yu, Yan Ma, Yue Liu, Dennis Wong, Kin Lei, and José Vicente Egas-López. In Proceeding of the 19th International Conference on Artificial Intelligence Applications and Innovations, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1ZaOXW9Yny4Eb7jkqDJdUDKE9yVJ7Pn5e/view?usp=sharing">Comprehensive User Experience Evaluation of Mobile Networks in Macao</a>. Yide Yu, Yue Liu, Dennis Wong, and Su-Kit Tang. In Proceeding of the 8th International Congress on Information and Communication Technology, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1ZaOXW9Yny4Eb7jkqDJdUDKE9yVJ7Pn5e/view?usp=sharing">Comprehensive User Experience Evaluation of Mobile Networks in Macao</a>. Yide Yu, Yue Liu, Dennis Wong, and Su-Kit Tang. In Proceeding of the 8th International Congress on Information and Communication Technology, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1vMPvZc9Q7ggFpNdu8eJeRrLpO5uHX_Ms/view?usp=sharing">Legacy Moderization: A Cloud Migration Strategy with Serverless Microservice Architecture</a>. Qi Zhi Ang, Peter Yau, Chin Sean Sum, Qi Cao, and Dennis Wong. In Proceeding of the 12th International Conference on Industrial Technology and Management, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1vMPvZc9Q7ggFpNdu8eJeRrLpO5uHX_Ms/view?usp=sharing">Legacy Moderization: A Cloud Migration Strategy with Serverless Microservice Architecture</a>. Qi Zhi Ang, Peter Yau, Chin Sean Sum, Qi Cao, and Dennis Wong. In Proceeding of the 12th International Conference on Industrial Technology and Management, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1nVR87lPMMdiQtXon3MYYz2C6jozCctLY/view?usp=sharing">Accessibility-as-a-Service – An Open Source Reading Assistance Tool Proposal for Education</a>. Shaun Yam, Peter Yau, Qi Cao, and Dennis Wong. In Proceeding of the 4th International Conference on Advances in Education and Information Technology, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1nVR87lPMMdiQtXon3MYYz2C6jozCctLY/view?usp=sharing">Accessibility-as-a-Service – An Open Source Reading Assistance Tool Proposal for Education</a>. Shaun Yam, Peter Yau, Qi Cao, and Dennis Wong. In Proceeding of the 4th International Conference on Advances in Education and Information Technology, 2023.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1B_pnQr1ontQqFY6avKA1kadewO6jRm5m/view?usp=sharing">Lightweight CNN-Based Deep Neural Networks Application in Safety Measurement</a>. Wilbur Lua, Peter Yau, Chee Kiat Seow, and Dennis Wong. In Proceeding of the 5th International Conference on Pattern Recognition and Artificial Intelligence, 2022. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1B_pnQr1ontQqFY6avKA1kadewO6jRm5m/view?usp=sharing">Lightweight CNN-Based Deep Neural Networks Application in Safety Measurement</a>. Wilbur Lua, Peter Yau, Chee Kiat Seow, and Dennis Wong. In Proceeding of the 5th International Conference on Pattern Recognition and Artificial Intelligence, 2022. </li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1mk3Pwx0meR0kSmRbjcrnrT_mDdXTgX35/view?usp=sharing">Learning Factory Synergy: Applied Learning and Problem-Based Pedagogy in the Digital Transformation Ecosystem</a>. Peter Yau, Eloe Tso, and Dennis Wong. In Proceeding of the 2022 Future Technologies Conference, 2022. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1mk3Pwx0meR0kSmRbjcrnrT_mDdXTgX35/view?usp=sharing">Learning Factory Synergy: Applied Learning and Problem-Based Pedagogy in the Digital Transformation Ecosystem</a>. Peter Yau, Eloe Tso, and Dennis Wong. In Proceeding of the 2022 Future Technologies Conference, 2022. </li>
 
 
 
-<li><a href="https://dl.acm.org/doi/pdf/10.1145/3476124.3488638" data-type="URL">HWAuth: Handwriting-Based Socially-Inclusive Authentication</a>. Joon Han, Dennis Wong and Byungkon Kang. In ACM SIGGRAPH Asia 2021 Posters, 2021.</li>
+<li><a rel="prefetch" href="https://dl.acm.org/doi/pdf/10.1145/3476124.3488638" data-type="URL">HWAuth: Handwriting-Based Socially-Inclusive Authentication</a>. Joon Han, Dennis Wong and Byungkon Kang. In ACM SIGGRAPH Asia 2021 Posters, 2021.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1aezskSTzRldQpLpNdchDNAAUP0Jjt2vR/view?usp=sharing">Powering Financial Literacy through Blockchain and Gamification – How digital transformation impacts Fintech Education</a>. Peter Yau and Dennis Wong. In Proceeding of the 2021 Future Technologies Conference, 2021. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1aezskSTzRldQpLpNdchDNAAUP0Jjt2vR/view?usp=sharing">Powering Financial Literacy through Blockchain and Gamification – How digital transformation impacts Fintech Education</a>. Peter Yau and Dennis Wong. In Proceeding of the 2021 Future Technologies Conference, 2021. </li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1hX_sESiFx_uEU61xceUnA4Dz_CMF-2Fj/view?usp=sharing">Educational STEM Laboratory – An Experimental Paradigm, Theory Design and User Experience Case Study</a>. Peter Yau, Dennis Wong, and HongYing Qiu. In Proceeding of the 6th International Conference on Education and Training Technologies (ICETT), 2020.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1hX_sESiFx_uEU61xceUnA4Dz_CMF-2Fj/view?usp=sharing">Educational STEM Laboratory – An Experimental Paradigm, Theory Design and User Experience Case Study</a>. Peter Yau, Dennis Wong, and HongYing Qiu. In Proceeding of the 6th International Conference on Education and Training Technologies (ICETT), 2020.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1inSfIu7J2_pdmulJ8v91wj6YJmXY_rr8/view?usp=sharing">Continuous Education through Building a Work-and-Learn Relationship: How does the Industrial Attachment Program work in Hong Kong</a>. Peter Yau, Dennis Wong, and Andrew Lam. In Proceeding of the 3rd International Conference on Education Research and Policy (ICERP), 2020. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1inSfIu7J2_pdmulJ8v91wj6YJmXY_rr8/view?usp=sharing">Continuous Education through Building a Work-and-Learn Relationship: How does the Industrial Attachment Program work in Hong Kong</a>. Peter Yau, Dennis Wong, and Andrew Lam. In Proceeding of the 3rd International Conference on Education Research and Policy (ICERP), 2020. </li>
 
 
 
-<li><a href="https://drive.google.com/open?id=1KzYMX6mZ3UnGMz4KTDIeaa8uOzSI6vD3">Practicing Mobile-Commerce Like a Pro – Implementation of an education-oriented commercial trading system</a>. Peter Yau, Hok Luen Woo, Joseph Leung and Dennis Wong. In Proceeding of the 6th International Conference on E-business and Mobile Commerce (ICEMC), 2020. </li>
+<li><a rel="prefetch" href="https://drive.google.com/open?id=1KzYMX6mZ3UnGMz4KTDIeaa8uOzSI6vD3">Practicing Mobile-Commerce Like a Pro – Implementation of an education-oriented commercial trading system</a>. Peter Yau, Hok Luen Woo, Joseph Leung and Dennis Wong. In Proceeding of the 6th International Conference on E-business and Mobile Commerce (ICEMC), 2020. </li>
 
 
 
-<li><a href="https://drive.google.com/open?id=1aV8pdoElgvXilMKj1VJoA8QhKrKNREi0">Unmanned Shop Laboratory: An extensible and scalable research, teaching and learning smart space system</a>. Peter Yau, Hok Luen Woo, Dennis Wong and Joe Wai Kin Kan. In Proceeding of the 3rd IEEE International Conference on Electronics Technology (ICET), 2020.</li>
+<li><a rel="prefetch" href="https://drive.google.com/open?id=1aV8pdoElgvXilMKj1VJoA8QhKrKNREi0">Unmanned Shop Laboratory: An extensible and scalable research, teaching and learning smart space system</a>. Peter Yau, Hok Luen Woo, Dennis Wong and Joe Wai Kin Kan. In Proceeding of the 3rd IEEE International Conference on Electronics Technology (ICET), 2020.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1w7wLT3YlOGeNgGeZqwUWz2tQsRkOIQ0_/view?usp=sharing">Understanding Consumer Behavior by Big Data Visualization in the Smart Space Laboratory</a>. Peter Yau, Hok Luen Woo, Ming Sum Lam, and Dennis Wong. In Proceeding of the 5th International Conference on Big Data and Computing (ICBDC), 2020.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1w7wLT3YlOGeNgGeZqwUWz2tQsRkOIQ0_/view?usp=sharing">Understanding Consumer Behavior by Big Data Visualization in the Smart Space Laboratory</a>. Peter Yau, Hok Luen Woo, Ming Sum Lam, and Dennis Wong. In Proceeding of the 5th International Conference on Big Data and Computing (ICBDC), 2020.</li>
 
 
 
-<li><a href="https://drive.google.com/open?id=1YZwHKGoRXT5Y2Bu7BXD1YrjUhHjK5aA1">SNudge: A Slidebar Nudge for users to practice better habits for mobile fingerprint authentication</a>. Joon Han and Dennis Wong. In Proceeding of the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2019), 2019.</li>
+<li><a rel="prefetch" href="https://drive.google.com/open?id=1YZwHKGoRXT5Y2Bu7BXD1YrjUhHjK5aA1">SNudge: A Slidebar Nudge for users to practice better habits for mobile fingerprint authentication</a>. Joon Han and Dennis Wong. In Proceeding of the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2019), 2019.</li>
 
 
 
-<li><a href="https://drive.google.com/file/d/1UZO8ToFp-sIuw0N7dSUJrFjUjZMXV8kj/view?usp=sharing">Flash, Buzz, Zap and Ouch! The sounds and sights of the Internet of Things in the classroom.</a>&nbsp;Michael Rogers, Aziz Fellah and Dennis Wong. Journal of Computing Sciences in Colleges 32(5), 132−140, 2017.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1UZO8ToFp-sIuw0N7dSUJrFjUjZMXV8kj/view?usp=sharing">Flash, Buzz, Zap and Ouch! The sounds and sights of the Internet of Things in the classroom.</a>&nbsp;Michael Rogers, Aziz Fellah and Dennis Wong. Journal of Computing Sciences in Colleges 32(5), 132−140, 2017.</li>
 </ul>
 
 

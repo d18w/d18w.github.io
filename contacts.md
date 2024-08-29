@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contacts/
-title: contacts
+title: Contacts
 ---
 
 <div class="content">

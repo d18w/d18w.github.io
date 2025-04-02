@@ -166,7 +166,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1-i5fXeyuhDpJZ4j13gMbdQfToA1k8NBc/view?usp=sharing">AuthZit: Multi-Modal Authentication with Visual-Spatial and Text Secrets</a>. Joon Han, Dennis Wong and Byungkon Kang. In Proceeding of the 21st International Conference on Applied Cryptography and Network Security, 2023 (To Appear).</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1-i5fXeyuhDpJZ4j13gMbdQfToA1k8NBc/view?usp=sharing">AuthZit: Multi-Modal Authentication with Visual-Spatial and Text Secrets</a>. Joon Han, Dennis Wong and Byungkon Kang. In Proceeding of the 21st International Conference on Applied Cryptography and Network Security, 2023.</li>
 
 
 

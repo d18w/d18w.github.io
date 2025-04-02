@@ -29,7 +29,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li>Greedy Gray codes for some restricted classes of binary words. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024 (To Appear).</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1WzS2KmlZoTPLhZQoJOVXAB8LnwiZaUJV/view?usp=sharing">Greedy Gray codes for some restricted classes of binary words</a>. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024 (To Appear).</li>
 
 
 

@@ -29,7 +29,10 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1WzS2KmlZoTPLhZQoJOVXAB8LnwiZaUJV/view?usp=sharing">Greedy Gray codes for some restricted classes of binary words</a>. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024 (To Appear).</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1jkhCvZychW6Wn1fXQZCY0ZKEEnLY2wDd/view?usp=sharing">Generating a cyclic 2-Gray code for Lucas words in constant amortized time</a>. Bowie Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceeding of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM), 2025 (To appear). </li>
+
+	
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1WzS2KmlZoTPLhZQoJOVXAB8LnwiZaUJV/view?usp=sharing">Greedy Gray codes for some restricted classes of binary words</a>. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024. </li>
 
 
 

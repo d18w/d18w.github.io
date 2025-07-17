@@ -6,6 +6,7 @@ title: Publications
 
 My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn sequences, graph theory, and design and analysis of algorithms. I am also interested in financial modeling, investing, and sports analytics lately.
 
+I usually include the source code for my theory papers in the appendix. If you find the code useful for your research or applications, I would greatly appreciate hearing about how it is being used. Please let me know by sending an email to <a href="mailto:cwong@mpu.edu.mo">cwong[at]mpu.edu.mo</a>.
 <div class="col-12">
 						<div class="content">
 																																	<div class="entry-content">
@@ -29,14 +30,17 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 <ul>
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1jkhCvZychW6Wn1fXQZCY0ZKEEnLY2wDd/view?usp=sharing">Generating a cyclic 2-Gray code for Lucas words in constant amortized time</a>. Bowie Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceeding of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025), 2025 (To appear). </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1jkhCvZychW6Wn1fXQZCY0ZKEEnLY2wDd/view?usp=sharing">Generating a cyclic 2-Gray code for Lucas words in constant amortized time</a>. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceeding of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025), 2025. </li>
+
+
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1c4vhD7pri6a7sGHSo3HomF7GlPxlwvFE/view?usp=sharing">Recursive and iterative approaches to generate rotation Gray codes for stamp foldings and semi-meanders. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. Theoretical Computer Science 1031, 2025.</li>
 
 	
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1WzS2KmlZoTPLhZQoJOVXAB8LnwiZaUJV/view?usp=sharing">Greedy Gray codes for some restricted classes of binary words</a>. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024. </li>
 
 
 
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1qktSFadJkGI6DB5rS4TCqkEOGMD56M34/view?usp=sharing">Generating cyclic 2-Gray codes for Fibonacci <em>q</em>-decreasing words</a>. Dennis Wong, Bowie Liu, Chan-Tong Lam, and Marcus Im. In Proceeding of the 18th International Conference and Workshop on Algorithms and Computation, 2024. </li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1qktSFadJkGI6DB5rS4TCqkEOGMD56M34/view?usp=sharing">Generating cyclic 2-Gray codes for Fibonacci <em>q</em>-decreasing words</a>. Dennis Wong, Bowen Liu, Chan-Tong Lam, and Marcus Im. In Proceeding of the 18th International Conference and Workshop on Algorithms and Computation, 2024. </li>
 
 
 
@@ -44,7 +48,7 @@ My research focuses on combinatorics, string algorithms, Gray codes, de Bruijn s
 
 
 
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1Lh7joa2MM_L1vCBysb3xa7XQzUji2Op5/view?usp=sharing">Generating cyclic rotation Gray codes for stamp foldings and semi-meanders</a>. Bowie Liu and Dennis Wong. In Proceeding of the 34th International Workshop on Combinatorial Algorithms, 2023.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1Lh7joa2MM_L1vCBysb3xa7XQzUji2Op5/view?usp=sharing">Generating cyclic rotation Gray codes for stamp foldings and semi-meanders</a>. Bowen Liu and Dennis Wong. In Proceeding of the 34th International Workshop on Combinatorial Algorithms, 2023.</li>
 
 
 

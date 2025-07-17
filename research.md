@@ -33,7 +33,7 @@ I usually include the source code for my theory papers in the appendix. If you f
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1jkhCvZychW6Wn1fXQZCY0ZKEEnLY2wDd/view?usp=sharing">Generating a cyclic 2-Gray code for Lucas words in constant amortized time</a>. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceeding of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025), 2025. </li>
 
 
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1c4vhD7pri6a7sGHSo3HomF7GlPxlwvFE/view?usp=sharing">Recursive and iterative approaches to generate rotation Gray codes for stamp foldings and semi-meanders. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. Theoretical Computer Science 1031, 2025.</li>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1c4vhD7pri6a7sGHSo3HomF7GlPxlwvFE/view?usp=sharing">Recursive and iterative approaches to generate rotation Gray codes for stamp foldings and semi-meanders</a>. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. Theoretical Computer Science 1031, 2025.</li>
 
 	
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1WzS2KmlZoTPLhZQoJOVXAB8LnwiZaUJV/view?usp=sharing">Greedy Gray codes for some restricted classes of binary words</a>. Nathanaël Hassler, Vincent Vajnovszki, and Dennis Wong. In Proceeding of the 13th International Conference on Random Generation of Combinatorial Structures Polyominoes and Tilings, 2024. </li>

@@ -15,7 +15,7 @@ permalink: /resume/
 
 
 
-<li>BSc in Computer Science – The Chinese University of Hong Kong.</li>
+<li>BSc in Computer Science – The Chinese University of Hong Kong, under the supervision of <a href="https://www.cse.cuhk.edu.hk/~fyyoung/">Evangeline Young</a>.</li>
 </ul>
 
 <h2 class="wp-block-heading">Industry Experience</h2>

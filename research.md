@@ -173,6 +173,13 @@ I usually include the source code for my theory papers in the appendix. If you f
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1-i5fXeyuhDpJZ4j13gMbdQfToA1k8NBc/view?usp=sharing">AuthZit: Multi-Modal Authentication with Visual-Spatial and Text Secrets</a>. Joon Han, Dennis Wong and Byungkon Kang. In Proceeding of the 21st International Conference on Applied Cryptography and Network Security, 2023.</li>
 
 
+<li><a rel="prefetch" href="https://dl.acm.org/doi/pdf/10.1145/3476124.3488638" data-type="URL">HWAuth: Handwriting-Based Socially-Inclusive Authentication</a>. Joon Han, Dennis Wong and Byungkon Kang. In ACM SIGGRAPH Asia 2021 Posters, 2021.</li>
+
+
+<li><a rel="prefetch" href="https://drive.google.com/open?id=1YZwHKGoRXT5Y2Bu7BXD1YrjUhHjK5aA1">SNudge: A Slidebar Nudge for users to practice better habits for mobile fingerprint authentication</a>. Joon Han and Dennis Wong. In Proceeding of the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2019), 2019.</li>
+
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1rTFzeb_fS2m853UU5lAXq4VmOm9ZScro/view?usp=sharing">Predicting European top 5 league football match results based on EA series football video game data and betting odds</a>. Jiasheng Su, Dennis Wong and Linjun Wang. In Proceeding of the 2024 International Conference on Sports Technology and Performance Analysis, 2024.</li>
+
 
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1gbEr62WV2dNAACb6GQvQzEZT3fi4ECXS/view?usp=sharing">MDPG: Markov Decision Process with Graph Representation in Reinforcement Learning</a>. Yide Yu, Dennis Wong, Yan Ma, and Yue Liu. In Proceeding of the 2023 International Conference on Mathematics, Computation and Modeling (CMCM 2023), 2023.</li>
 
@@ -202,9 +209,6 @@ I usually include the source code for my theory papers in the appendix. If you f
 
 
 
-<li><a rel="prefetch" href="https://dl.acm.org/doi/pdf/10.1145/3476124.3488638" data-type="URL">HWAuth: Handwriting-Based Socially-Inclusive Authentication</a>. Joon Han, Dennis Wong and Byungkon Kang. In ACM SIGGRAPH Asia 2021 Posters, 2021.</li>
-
-
 
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1aezskSTzRldQpLpNdchDNAAUP0Jjt2vR/view?usp=sharing">Powering Financial Literacy through Blockchain and Gamification – How digital transformation impacts Fintech Education</a>. Peter Yau and Dennis Wong. In Proceeding of the 2021 Future Technologies Conference, 2021. </li>
 
@@ -214,11 +218,11 @@ I usually include the source code for my theory papers in the appendix. If you f
 
 
 
-<li><a rel="prefetch" href="https://drive.google.com/file/d/1inSfIu7J2_pdmulJ8v91wj6YJmXY_rr8/view?usp=sharing">Continuous Education through Building a Work-and-Learn Relationship: How does the Industrial Attachment Program work in Hong Kong</a>. Peter Yau, Dennis Wong, and Andrew Lam. In Proceeding of the 3rd International Conference on Education Research and Policy (ICERP), 2020. </li>
+<!--<li><a rel="prefetch" href="https://drive.google.com/file/d/1inSfIu7J2_pdmulJ8v91wj6YJmXY_rr8/view?usp=sharing">Continuous Education through Building a Work-and-Learn Relationship: How does the Industrial Attachment Program work in Hong Kong</a>. Peter Yau, Dennis Wong, and Andrew Lam. In Proceeding of the 3rd International Conference on Education Research and Policy (ICERP), 2020. </li>
 
 
 
-<li><a rel="prefetch" href="https://drive.google.com/open?id=1KzYMX6mZ3UnGMz4KTDIeaa8uOzSI6vD3">Practicing Mobile-Commerce Like a Pro – Implementation of an education-oriented commercial trading system</a>. Peter Yau, Hok Luen Woo, Joseph Leung and Dennis Wong. In Proceeding of the 6th International Conference on E-business and Mobile Commerce (ICEMC), 2020. </li>
+<li><a rel="prefetch" href="https://drive.google.com/open?id=1KzYMX6mZ3UnGMz4KTDIeaa8uOzSI6vD3">Practicing Mobile-Commerce Like a Pro – Implementation of an education-oriented commercial trading system</a>. Peter Yau, Hok Luen Woo, Joseph Leung and Dennis Wong. In Proceeding of the 6th International Conference on E-business and Mobile Commerce (ICEMC), 2020. </li>-->
 
 
 
@@ -228,9 +232,6 @@ I usually include the source code for my theory papers in the appendix. If you f
 
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1w7wLT3YlOGeNgGeZqwUWz2tQsRkOIQ0_/view?usp=sharing">Understanding Consumer Behavior by Big Data Visualization in the Smart Space Laboratory</a>. Peter Yau, Hok Luen Woo, Ming Sum Lam, and Dennis Wong. In Proceeding of the 5th International Conference on Big Data and Computing (ICBDC), 2020.</li>
 
-
-
-<li><a rel="prefetch" href="https://drive.google.com/open?id=1YZwHKGoRXT5Y2Bu7BXD1YrjUhHjK5aA1">SNudge: A Slidebar Nudge for users to practice better habits for mobile fingerprint authentication</a>. Joon Han and Dennis Wong. In Proceeding of the 24th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2019), 2019.</li>
 
 
 

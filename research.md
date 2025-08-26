@@ -30,6 +30,9 @@ I usually include the source code for my theory papers in the appendix. If you f
 
 
 <ul>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1FKSG-JjN8V9Ub7FrNzSHiLlKo7v_BZU7/view?usp=sharing">Generating a cyclic 3-Gray code for integer partitions with maximum parts in constant amortized time</a>. Jiahui Shao, Dennis Wong, Ruizhe Zhou, and Wei Ke. In Proceedings of the XIII Latin American Algorithms, Graphs, and Optimization Symposium (LAGOS 2025), 2025 (To appear). </li>
+
+ 
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1jkhCvZychW6Wn1fXQZCY0ZKEEnLY2wDd/view?usp=sharing">Generating a cyclic 2-Gray code for Lucas words in constant amortized time</a>. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceedings of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025), 2025. </li>
 
 

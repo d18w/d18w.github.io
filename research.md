@@ -30,6 +30,9 @@ I usually include the source code for my theory papers in the appendix. If you f
 
 
 <ul>
+<li><a rel="prefetch" href="https://drive.google.com/file/d/1OXwPoT5Wpd3DuvEjuPbwm8ZBN7zqPsD8/view?usp=sharing">Generating pivot Gray codes for spanning trees of complete graphs in constant amortized time</a>. Bowen Liu, Dennis Wong, Chan-Tong Lam, and Marcus Im. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (SODA26), 2026 (To appear). </li>
+
+	
 <li><a rel="prefetch" href="https://drive.google.com/file/d/1FKSG-JjN8V9Ub7FrNzSHiLlKo7v_BZU7/view?usp=sharing">Generating a cyclic 3-Gray code for integer partitions with maximum parts in constant amortized time</a>. Jiahui Shao, Dennis Wong, Ruizhe Zhou, and Wei Ke. In Proceedings of the XIII Latin American Algorithms, Graphs, and Optimization Symposium (LAGOS 2025), 2025 (To appear). </li>
 
  
